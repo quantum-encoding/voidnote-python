@@ -4,8 +4,8 @@ build-backend = "hatchling.build"
 
 [project]
 name = "voidnote"
-version = "0.1.0"
-description = "Official SDK for VoidNote — zero-knowledge self-destructing notes"
+version = "0.3.0"
+description = "Official SDK for VoidNote — zero-knowledge self-destructing notes and live encrypted streams"
 readme = "README.md"
 license = "MIT"
 requires-python = ">=3.9"
